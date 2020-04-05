@@ -7,4 +7,4 @@
 * Master branch has its own commits. 
 * Merge first and rebase.
 * This tutorial is gonna take a look at how does rebase happen and merge based on history of commits. I will check every commits history with this tutorial. Let's deep dive into it!
-
+* After write codes more, and commit!
